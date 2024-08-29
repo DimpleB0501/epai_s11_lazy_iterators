@@ -7,6 +7,6 @@ In this assignment we implemented a lazy iterator (using Polygon class rather th
 ![op](lazy_iterator.png)
 
 ### Codes
-[ipython notebook](https://github.com/DimpleB0501/epai_s11_lazy_iterators/blob/main/iterables_iterators_part2.ipynb), main code,
-[polygon](https://github.com/DimpleB0501/epai_s11_lazy_iterators/blob/main/polygon.py), properties of the polygon class are calculated here,
+[ipython notebook](https://github.com/DimpleB0501/epai_s11_lazy_iterators/blob/main/iterables_iterators_part2.ipynb), main code, <br/>
+[polygon](https://github.com/DimpleB0501/epai_s11_lazy_iterators/blob/main/polygon.py), properties of the polygon class are calculated here, <br/>
 [polygons](https://github.com/DimpleB0501/epai_s11_lazy_iterators/blob/main/polygons.py), lazy iterator and a polygons sequence is implemented here.
